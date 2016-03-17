@@ -2,9 +2,10 @@ source "https://rubygems.org"
 
 gem "lita"
 gem "lita-slack"
-#gem "lita-google-images"
+gem "lita-google-images"
 #gem "lita-talk"
 gem "lita-tenki", :path => "handlers/lita-tenki"
+gem "lita-lanch", :path => "handlers/lita-lanch"
 
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"
