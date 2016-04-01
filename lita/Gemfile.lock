@@ -1,4 +1,10 @@
 PATH
+  remote: handlers/lita-ikemen
+  specs:
+    lita-ikemen (0.1.0)
+      lita (>= 4.7)
+
+PATH
   remote: handlers/lita-lanch
   specs:
     lita-lanch (0.1.0)
@@ -79,6 +85,7 @@ DEPENDENCIES
   lita
   lita-google
   lita-google-images
+  lita-ikemen!
   lita-lanch!
   lita-slack
   lita-suddenly!
