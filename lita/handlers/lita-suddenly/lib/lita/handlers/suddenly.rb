@@ -7,7 +7,7 @@ module Lita
 
 	module Handlers
 		class Suddenly < Handler
-			route /^suddenly\s+(\S.*)+/, :suddenly_death
+			route /^突然の\s+(\S.*)+/, :suddenly_death
 
 			def suddenly_death(response)
 				word = response.matches[0][0]
