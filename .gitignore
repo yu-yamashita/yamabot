@@ -1,2 +1,3 @@
-lita/lita_config.rb
 vendor/bundle
+vendor/
+lita/vendor/*

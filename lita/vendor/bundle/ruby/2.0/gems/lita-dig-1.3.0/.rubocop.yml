@@ -1,0 +1,7 @@
+Documentation:
+  Exclude:
+    - lib/lita/handlers/dig.rb
+
+FileName:
+  Exclude:
+    - lib/lita-dig.rb

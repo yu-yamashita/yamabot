@@ -1,0 +1,14 @@
+en:
+  lita:
+    handlers:
+      dig:
+        error:
+          not_implemented: Not implemented yet
+          unknown_type: Unknown record type
+          unable_to_resolve: "Unable to resolve %{argument}"
+        help:
+          resolve:
+            syntax: dig [@<server>] <name> [<type>] [+short]
+            desc: |
+                  "Lookup the <type> record for <name> using <server> as a resolver.
+                  <type> defaults to A, and <server> defaults to 8.8.8.8"
