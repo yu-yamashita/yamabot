@@ -3,7 +3,8 @@ source "https://rubygems.org"
 gem "lita"
 gem "lita-slack"
 gem "lita-google-images"
-gem "lita-google"
+#gem "lita-google"
+#gem "lita-google_search"
 #gem "lita-talk"
 gem "lita-tenki", :path => "handlers/lita-tenki"
 gem "lita-lanch", :path => "handlers/lita-lanch"
@@ -14,6 +15,7 @@ gem "lita-ikemen", :path => "handlers/lita-ikemen"
 gem 'pebbles-suddenly_death_string'
 gem "lita-dig"
 gem "lita-whois"
+gem "io-console"
 
 # Uncomment to use the HipChat adapter
 # gem "lita-hipchat"

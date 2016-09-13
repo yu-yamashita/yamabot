@@ -19,7 +19,7 @@ Lita.configure do |config|
   # appropriate gem to the Gemfile.
   #config.robot.adapter = :shell
   config.robot.adapter = :slack
-  config.adapters.slack.token = "xoxb-21545164851-HT1r1LXTW11bxKXG2Z1mSmOk"
+  config.adapters.slack.token = ""
 
   ## Example: Set options for the chosen adapter.
   # config.adapter.username = "myname"
@@ -33,11 +33,8 @@ Lita.configure do |config|
   ## documentation for options.
   # config.handlers.some_handler.some_config_key = "value"
 
-  #config.handlers.talk.docomo_api_key = '445a7a7736584b6d6e5a4c654c4e72386d6c6b435554555536746937534c426b5379744d564e4f2e344941'
-  #config.handlers.talk.docomo_character_id = 20
-
-  config.handlers.google_images.google_cse_id = "012078979414426078839:rezzql98rrs"
-  config.handlers.google_images.google_cse_key =  "AIzaSyDTWN3WxBk7hS6ysD4cX5imInsaEmaiME0"
+  config.handlers.google_images.google_cse_id = ""
+  config.handlers.google_images.google_cse_key =  ""
   config.handlers.google_images.safe_search = :medium
 
 end

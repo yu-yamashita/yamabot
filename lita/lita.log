@@ -1,0 +1,55 @@
+/home/yu-yamashita/yamabot/lita/vendor/bundle/ruby/2.1.0/gems/rb-readline-0.5.3/lib/readline.rb:458: warning: already initialized constant Readline::HISTORY
+/home/yu-yamashita/yamabot/lita/vendor/bundle/ruby/2.1.0/gems/rb-readline-0.5.3/lib/readline.rb:486: warning: already initialized constant Readline::FILENAME_COMPLETION_PROC
+/home/yu-yamashita/yamabot/lita/vendor/bundle/ruby/2.1.0/gems/rb-readline-0.5.3/lib/readline.rb:517: warning: already initialized constant Readline::USERNAME_COMPLETION_PROC
+/home/yu-yamashita/yamabot/lita/vendor/bundle/ruby/2.1.0/gems/rb-readline-0.5.3/lib/readline.rb:523: warning: already initialized constant Readline::VERSION
+[2016-09-13 04:22:31 UTC] DEBUG: Connecting to the Slack Real Time Messaging API.
+[2016-09-13 04:22:31 UTC] DEBUG: Connected to the Slack Real Time Messaging API.
+[2016-09-13 04:22:31 UTC] INFO: Connected to Slack.
+[2016-09-13 04:22:31 UTC] DEBUG: reconnect_url event received from Slack and will be ignored.
+[2016-09-13 04:22:32 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:22:33 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:22:49 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:22:50 UTC] DEBUG: channel_joined event received from Slack and will be ignored.
+[2016-09-13 04:22:54 UTC] DEBUG: user_typing event received from Slack and will be ignored.
+[2016-09-13 04:22:56 UTC] DEBUG: Dispatching message to Lita from U1KHZH9DM.
+[2016-09-13 04:22:56 UTC] DEBUG: Dispatching message to Lita::Handlers::Info#chat.
+[2016-09-13 04:23:08 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:23:12 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:23:14 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:23:22 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:23:28 UTC] DEBUG: reconnect_url event received from Slack and will be ignored.
+[2016-09-13 04:23:42 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:24:12 UTC] DEBUG: user_typing event received from Slack and will be ignored.
+[2016-09-13 04:24:16 UTC] DEBUG: user_typing event received from Slack and will be ignored.
+[2016-09-13 04:24:18 UTC] DEBUG: Dispatching message to Lita from U1KHZH9DM.
+[2016-09-13 04:24:18 UTC] DEBUG: Dispatching message to Lita::Handlers::Dig#resolve.
+[2016-09-13 04:24:27 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:24:41 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:24:41 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:25:28 UTC] DEBUG: reconnect_url event received from Slack and will be ignored.
+[2016-09-13 04:25:32 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:25:45 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:25:53 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:26:08 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:26:09 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:26:29 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:26:30 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:27:00 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:27:37 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:27:46 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:28:28 UTC] DEBUG: reconnect_url event received from Slack and will be ignored.
+[2016-09-13 04:28:29 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:28:46 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:28:59 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:29:17 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:30:18 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:30:19 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:31:10 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:31:21 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:31:28 UTC] DEBUG: reconnect_url event received from Slack and will be ignored.
+[2016-09-13 04:31:43 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:31:55 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:31:57 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:32:13 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:32:23 UTC] DEBUG: presence_change event received from Slack and will be ignored.
+[2016-09-13 04:33:28 UTC] DEBUG: reconnect_url event received from Slack and will be ignored.
