@@ -12,6 +12,7 @@ gem "io-console"
 gem "json"
 gem "lita-suddenly", :path => "handlers/lita-suddenly"
 gem "lita-ikemen", :path => "handlers/lita-ikemen"
+gem "lita-misawa", :path => "handlers/lita-misawa"
 gem 'pebbles-suddenly_death_string'
 gem "lita-dig"
 gem "lita-whois"
